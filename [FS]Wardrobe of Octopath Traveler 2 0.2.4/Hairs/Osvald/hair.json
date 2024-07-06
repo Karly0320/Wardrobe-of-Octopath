@@ -1,0 +1,63 @@
+{
+  "Name": "奥兹巴尔多(默认)",
+  "FrontHair": {
+    "DisableGrayscale": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 2,
+      "Y": 0
+    },
+    "HairSize": {
+      "Width": 20,
+      "Length": 32
+    }
+  },
+  "BackHair": {
+    "DisableGrayscale": true,
+    "StartingPosition": {
+      "X": 20,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 2,
+      "Y": 0
+    },
+    "HairSize": {
+      "Width": 20,
+      "Length": 32
+    }
+  },
+  "LeftHair": {
+    "DisableGrayscale": true,
+    "StartingPosition": {
+      "X": 40,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HairSize": {
+      "Width": 21,
+      "Length": 32
+    }
+  },
+  "RightHair": {
+    "DisableGrayscale": true,
+    "StartingPosition": {
+      "X": 61,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 5,
+      "Y": 0
+    },
+    "HairSize": {
+      "Width": 21,
+      "Length": 32
+    }
+  }
+}

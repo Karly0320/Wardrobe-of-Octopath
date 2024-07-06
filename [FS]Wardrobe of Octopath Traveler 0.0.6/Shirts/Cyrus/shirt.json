@@ -1,0 +1,84 @@
+{
+  // See the wiki for all shirt properties: https://github.com/Floogen/FashionSense/wiki/Shirt-Model-Properties
+  "Name": "赛拉斯(马甲)",
+  "FrontShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 61, 52, 37 ],
+      [ 170, 163, 139 ],
+      [ 236, 229, 196 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 8
+    }
+  },
+  "RightShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 61, 52, 37 ],
+      [ 170, 163, 139 ],
+      [ 236, 229, 196 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 8
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 8
+    }
+  },
+  "LeftShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 61, 52, 37 ],
+      [ 170, 163, 139 ],
+      [ 236, 229, 196 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 16
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 8
+    }
+  },
+  "BackShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 61, 52, 37 ],
+      [ 170, 163, 139 ],
+      [ 236, 229, 196 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 24
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 8
+    }
+  }
+}

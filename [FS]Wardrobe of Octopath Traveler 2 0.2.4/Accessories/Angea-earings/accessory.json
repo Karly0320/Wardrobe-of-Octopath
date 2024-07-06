@@ -1,0 +1,132 @@
+{
+  "Name": "爱格妮娅耳环",
+  "FrontAccessory": {
+    "DisableGrayscale": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 2
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 32
+    },
+  },
+  /*"BackAccessory": {
+    "DisableGrayscale": true,
+    "DrawOrderOverride": {
+      "Preposition": "Before",
+      "AppearanceType": "Hair"
+    },
+    "StartingPosition": {
+      "X": 0,
+      "Y": 32
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 4
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 32
+    },
+    /*"MovementAnimation": [
+      {
+        "Frame": 0,
+        "Duration": 100
+      },
+      {
+        "Frame": 1,
+        "Duration": 100,
+        "OverrideStartingIndex": true
+      },
+      {
+        "Frame": 2,
+        "Duration": 100
+      },
+      {
+        "Frame": 3,
+        "Duration": 100
+      }
+    ]
+  },*/
+  "RightAccessory": {
+    "DisableGrayscale": true,
+    "DrawOrderOverride": {
+      "Preposition": "After",
+      "AppearanceType": "Hair"
+    },
+    "StartingPosition": {
+      "X": 51,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 3,
+      "Y": 2
+    },
+    "AccessorySize": {
+      "Width": 19,
+      "Length": 32
+    },
+    /*"MovementAnimation": [
+      {
+        "Frame": 0,
+        "Duration": 125
+      },
+      {
+        "Frame": 1,
+        "Duration": 125,
+        "OverrideStartingIndex": true
+      },
+      {
+        "Frame": 2,
+        "Duration": 125
+      },
+      {
+        "Frame": 3,
+        "Duration": 125
+      }
+    ]*/
+  },
+  "LeftAccessory": {
+    "DisableGrayscale": true,
+    "DrawOrderOverride": {
+      "Preposition": "After",
+      "AppearanceType": "Hair"
+    },
+    "StartingPosition": {
+      "X": 32,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 2
+    },
+    "AccessorySize": {
+      "Width": 19,
+      "Length": 32
+    },
+    /*"MovementAnimation": [
+      {
+        "Frame": 0,
+        "Duration": 125
+      },
+      {
+        "Frame": 1,
+        "Duration": 125,
+        "OverrideStartingIndex": true
+      },
+      {
+        "Frame": 2,
+        "Duration": 125
+      },
+      {
+        "Frame": 3,
+        "Duration": 125
+      }
+    ]*/
+  }
+}

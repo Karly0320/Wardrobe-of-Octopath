@@ -1,0 +1,55 @@
+﻿[
+  // set 1
+  {
+  "Name": "cyrus",
+  "Author": "dd",
+  "Version": 3,
+  "AccessoryIds": [
+    "ease1219.otfspack/Accessory/赛拉斯学者袍（底）",
+    "ease1219.otfspack/Accessory/赛拉斯学者袍（顶）"
+  ],
+  "HairId": "ease1219.otfspack/Hair/赛拉斯(默认)",
+  "HatId": null,
+  "ShirtId": "ease1219.otfspack/Shirt/赛拉斯(马甲)",
+  "SleevesId": null,
+  "PantsId": null,
+  "ShoesId": null,
+  "AccessoryColors": [
+    "4294967295",
+    "4294967295"
+  ],
+  "HairColor": "4278934121",
+  "AppearanceToMaskColors": {
+    "Hair": [
+      {
+        "B": 11,
+        "G": 90,
+        "R": 105,
+        "A": 255
+      }
+    ],
+    "Accessory": [
+      {
+        "B": 255,
+        "G": 255,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "B": 255,
+        "G": 255,
+        "R": 255,
+        "A": 255
+      }
+    ],
+    "Shirt": [
+      {
+        "B": 11,
+        "G": 90,
+        "R": 105,
+        "A": 255
+      }
+    ]
+  }
+}
+]

@@ -1,0 +1,358 @@
+{
+  // See the wiki for all shirt properties: https://github.com/Floogen/FashionSense/wiki/Shirt-Model-Properties
+  "Name": "霞山",
+  "FrontShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 96, 83, 84 ],
+      [ 173, 158, 156 ],
+      [ 222, 207, 198 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 2,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 12,
+      "Length": 16
+    }
+  },
+  "RightShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 96, 83, 84 ],
+      [ 173, 158, 156 ],
+      [ 222, 207, 198 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 16
+    },
+    "BodyPosition": {
+      "X": 4,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 16,
+      "Length": 16
+    },
+    "IdleAnimation": [
+     {
+         "Frame": 0,
+         "Duration": 100
+     },
+     {
+         "Frame": 5,
+         "OverrideStartingIndex": true,
+         "Conditions": [
+             {
+                 "Name": "RidingHorse",
+                 "Independent": true,
+                 "Value": true
+             },
+             {
+                 "Name": "IsSitting",
+                 "Independent": true,
+                 "Value": true
+          }
+        ]
+      }
+    ],
+    "MovementAnimation":[
+      //walk
+      {
+        "Frame": 0,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsWalking",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 1,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsWalking",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 0,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsWalking",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 2,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsWalking",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 0,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsRunning",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 1,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsRunning",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 3,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsRunning",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 0,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsRunning",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 2,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsRunning",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 4,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsRunning",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 5,
+        "EndWhenFarmerFrameUpdates": true,
+         "OverrideStartingIndex": true,
+         "Conditions": [
+           {
+             "Name": "RidingHorse",
+             "Independent": true,
+             "Value": true
+          }
+        ]
+      },
+    ]
+  },
+  "LeftShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 96, 83, 84 ],
+      [ 173, 158, 156 ],
+      [ 222, 207, 198 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 32
+    },
+    "BodyPosition": {
+      "X": 4,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 16,
+      "Length": 16
+    },
+    "IdleAnimation": [
+     {
+         "Frame": 0,
+         "Duration": 100
+     },
+     {
+         "Frame": 5,
+         "OverrideStartingIndex": true,
+         "Conditions": [
+             {
+                 "Name": "RidingHorse",
+                 "Independent": true,
+                 "Value": true
+             },
+             {
+                 "Name": "IsSitting",
+                 "Independent": true,
+                 "Value": true
+          }
+        ]
+      }
+    ],
+    "MovementAnimation":[
+      //walk
+      {
+        "Frame": 0,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsWalking",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 1,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsWalking",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 0,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsWalking",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 2,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsWalking",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 0,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsRunning",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 1,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsRunning",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 3,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsRunning",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 0,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsRunning",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 2,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsRunning",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 4,
+        "EndWhenFarmerFrameUpdates": true,
+        "Conditions": [
+          {
+            "Name": "IsRunning",
+            "Value": true
+          }
+        ]
+      },
+      {
+        "Frame": 5,
+        "EndWhenFarmerFrameUpdates": true,
+         "OverrideStartingIndex": true,
+         "Conditions": [
+           {
+             "Name": "RidingHorse",
+             "Independent": true,
+             "Value": true
+          }
+        ]
+      },
+    ]
+  },
+  "BackShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 96, 83, 84 ],
+      [ 173, 158, 156 ],
+      [ 222, 207, 198 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 48
+    },
+    "BodyPosition": {
+      "X": 2,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 12,
+      "Length": 16
+    }
+  }
+}

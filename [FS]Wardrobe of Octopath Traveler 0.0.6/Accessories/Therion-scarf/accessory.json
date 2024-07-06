@@ -1,0 +1,81 @@
+{
+  "Name": "泰里翁围巾",
+  "FrontAccessory": {
+    "DisableGrayscale": true,
+    "HideWhileSwimming": true,
+    "HideWhileWearingBathingSuit": true,
+    "DrawOrderOverride": {
+      "Preposition": "After",
+      "AppearanceType": "Sleeves"
+    },
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 2
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 32
+    },
+  },
+  "BackAccessory": {
+    "DisableGrayscale": true,
+    "HideWhileSwimming": true,
+    "HideWhileWearingBathingSuit": true,
+    "DrawOrderOverride": {
+      "Preposition": "After",
+      "AppearanceType": "Hair"
+    },
+    "StartingPosition": {
+      "X": 16,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 32
+    },
+  },
+  "RightAccessory": {
+    "DisableGrayscale": true,
+    "HideWhileSwimming": true,
+    "HideWhileWearingBathingSuit": true,
+    
+    "StartingPosition": {
+      "X": 32,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 2
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 32
+    },
+  },
+  "LeftAccessory": {
+    "DisableGrayscale": true,
+    "HideWhileSwimming": true,
+    "HideWhileWearingBathingSuit": true,
+    
+    "StartingPosition": {
+      "X": 48,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 2
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 32
+    },
+  }
+}

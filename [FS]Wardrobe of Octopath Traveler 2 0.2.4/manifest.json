@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Wardrobe of Octopath Traveler 2",
+  "Author": "ease1219",
+  "Version": "0.2.4",
+  "Description": "Try to provide the hairstyles and clothes of the main characters in Octopath Traveler 2.",
+  "UniqueID": "ease1219.ot2fspack",
+  "UpdateKeys": [],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "5.8.1"
+  }
+}

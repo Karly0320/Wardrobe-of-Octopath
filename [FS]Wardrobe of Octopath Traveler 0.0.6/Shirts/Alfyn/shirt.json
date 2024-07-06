@@ -1,0 +1,84 @@
+{
+  // See the wiki for all shirt properties: https://github.com/Floogen/FashionSense/wiki/Shirt-Model-Properties
+  "Name": "亚芬(默认)",
+  "FrontShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 68, 61, 50 ],
+      [ 182, 175, 149 ],
+      [ 224, 220, 189 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 1,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 10,
+      "Length": 10
+    }
+  },
+  "RightShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 68, 61, 50 ],
+      [ 182, 175, 149 ],
+      [ 224, 220, 189 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 10
+    },
+    "BodyPosition": {
+      "X": 1,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 10,
+      "Length": 10
+    }
+  },
+  "LeftShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 68, 61, 50 ],
+      [ 182, 175, 149 ],
+      [ 224, 220, 189 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 20
+    },
+    "BodyPosition": {
+      "X": 1,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 10,
+      "Length": 10
+    }
+  },
+  "BackShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 68, 61, 50 ],
+      [ 182, 175, 149 ],
+      [ 224, 220, 189 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 30
+    },
+    "BodyPosition": {
+      "X": 1,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 10,
+      "Length": 10
+    }
+  }
+}

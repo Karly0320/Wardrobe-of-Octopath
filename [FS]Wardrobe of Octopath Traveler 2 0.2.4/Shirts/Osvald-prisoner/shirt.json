@@ -1,0 +1,84 @@
+{
+  // See the wiki for all shirt properties: https://github.com/Floogen/FashionSense/wiki/Shirt-Model-Properties
+  "Name": "奥兹巴尔多囚服",
+  "FrontShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 77, 71, 68 ],
+      [ 148, 135, 123 ],
+      [ 239, 227, 214 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 8
+    }
+  },
+  "RightShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 77, 71, 68 ],
+      [ 148, 135, 123 ],
+      [ 239, 227, 214 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 8
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 8
+    }
+  },
+  "LeftShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 77, 71, 68 ],
+      [ 148, 135, 123 ],
+      [ 239, 227, 214 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 16
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 8
+    }
+  },
+  "BackShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 77, 71, 68 ],
+      [ 148, 135, 123 ],
+      [ 239, 227, 214 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 24
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 8
+    }
+  }
+}

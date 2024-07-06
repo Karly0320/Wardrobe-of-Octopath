@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Wardrobe of Octopath Traveler",
+  "Author": "ease1219",
+  "Version": "0.0.6",
+  "Description": "Try to provide the hairstyles and clothes of the main characters in Octopath Traveler.",
+  "UniqueID": "ease1219.otfspack",
+  "UpdateKeys": [],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "5.8.1"
+  }
+}

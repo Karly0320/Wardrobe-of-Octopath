@@ -1,0 +1,84 @@
+{
+  // See the wiki for all shirt properties: https://github.com/Floogen/FashionSense/wiki/Shirt-Model-Properties
+  "Name": "祈祷师(光)",
+  "FrontShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 33, 36, 41 ],
+      [ 189, 191, 192 ],
+      [ 239, 239, 239 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 12
+    }
+  },
+  "RightShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 33, 36, 41 ],
+      [ 189, 191, 192 ],
+      [ 239, 239, 239 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 12
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 12
+    }
+  },
+  "LeftShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 33, 36, 41 ],
+      [ 189, 191, 192 ],
+      [ 239, 239, 239 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 24
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 12
+    }
+  },
+  "BackShirt": {
+    "DisableGrayscale": true,
+    "SleeveColors": [
+      [ 33, 36, 41 ],
+      [ 189, 191, 192 ],
+      [ 239, 239, 239 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 36
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShirtSize": {
+      "Width": 8,
+      "Length": 18
+    }
+  }
+}

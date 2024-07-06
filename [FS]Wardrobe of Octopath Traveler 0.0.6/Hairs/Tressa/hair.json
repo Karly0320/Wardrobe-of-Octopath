@@ -1,0 +1,63 @@
+{
+  "Name": "特蕾莎(无帽)",
+  "FrontHair": {
+    "DisableGrayscale": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HairSize": {
+      "Width": 17,
+      "Length": 32
+    }
+  },
+  "BackHair": {
+    "DisableGrayscale": true,
+    "StartingPosition": {
+      "X": 17,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HairSize": {
+      "Width": 16,
+      "Length": 32
+    }
+  },
+  "LeftHair": {
+    "DisableGrayscale": true,
+    "StartingPosition": {
+      "X": 33,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 1
+    },
+    "HairSize": {
+      "Width": 18,
+      "Length": 32
+    }
+  },
+  "RightHair": {
+    "DisableGrayscale": true,
+    "StartingPosition": {
+      "X": 51,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 2,
+      "Y": 1
+    },
+    "HairSize": {
+      "Width": 18,
+      "Length": 32
+    }
+  }
+}
