@@ -1,8 +1,8 @@
-# Stardew Valley fanmade mod: Octopath Traveler appearance for your farmer!
+# 💫Stardew Valley fanmade mod: Octopath Traveler appearance for your farmer!🐙
 ## 星露谷同人mod之歧路旅人角色外观！
 
-## 注意事项
-在使用本mod前，你需要注意这些↓↓↓：
+## 注意事项🤔
+在使用本mod前，你需要注意这些↓↓↓⚠️：
 
 - 本mod为同人自制mod，**仅用于学习分享和小范围娱乐**，不用于盈利目的；
 - **禁止**在任何公开平台**二次上传**本mod或本mod的修改版本、或将本mod **用于盈利目的**的分享；
@@ -18,13 +18,13 @@
 - 对于玩家游玩本mod时对角色形象造成的潜在影响，本人概不负责；
 - 您可以在各类社区平台分享您或者您与朋友一同游玩本mod的截图、录屏等内容，并且如果方便的话，希望您在分享时顺便标注作者名甚至下载来源（非强制），让感兴趣的人也可以享受在星露谷里扮演歧路旅人系列角色的快乐！但请不要在歧路旅人官方账号下发布本mod相关内容，非常感激🙏
 
-## 安装教程：
+## 安装教程🪄：
 1. 下载并安装SMAPI；
 2. 找到星露谷物语的游戏文件安装目录；
 3. 将[FS]Wardrobe of Octopath Traveler 及[FS]Wardrobe of Octopath Traveler 2（可以携带版本号后缀）两个文件夹移入Mods文件夹；
 4. 通过SMAPI启动游戏。
 
-## 现阶段内容物一览
+## 现阶段内容物一览🔍：
 （注：本列表仅供提示mod部件的具体内容，名称和mod内部件实际显示名称并不完全一致）
 ### Wardrobe of Octopath Traveler 0.0.6
 1. 头发
@@ -106,7 +106,7 @@
 	- 发明家腰带
 	- 霞山胡子
 
-## 作者联系方式
+## 作者联系方式🏷️：
 - 微博：@-云燕归-
 - QQ：@云燕归/2694274041
 - Lofter：@云燕归
