@@ -84,7 +84,8 @@
 	- 发明家（通用）
 	- 霞山
 	- 明特（含背后披风）
-	（*建议搭配SH’s Gloves and Sleeves Pack中的大长袖一并使用）
+	
+ （*建议搭配SH’s Gloves and Sleeves Pack中的大长袖一并使用）
 3. 下装
 	- 提米诺斯神官装
 4. 帽子
