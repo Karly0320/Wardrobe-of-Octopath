@@ -21,8 +21,9 @@
 ## 安装教程🪄：
 1. 下载并安装SMAPI；
 2. 找到星露谷物语的游戏文件安装目录；
-3. 将[FS]Wardrobe of Octopath Traveler 及[FS]Wardrobe of Octopath Traveler 2（可以携带版本号后缀）两个文件夹移入Mods文件夹；
-4. 通过SMAPI启动游戏。
+3. 下载Fashion Sense，并将其解压，移入Mods文件夹
+4. 将[FS]Wardrobe of Octopath Traveler 及[FS]Wardrobe of Octopath Traveler 2（可以携带版本号后缀）解压后，将两个文件夹移入Mods文件夹；
+5. 通过SMAPI启动游戏。
 
 ## 现阶段内容物一览🔍：
 （注：本目录仅供提示mod部件的具体内容，名称和mod内部件实际显示名称并不完全一致）
